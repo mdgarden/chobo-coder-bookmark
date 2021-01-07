@@ -1,0 +1,7 @@
+- [생활코딩](https://opentutorials.org/course/1)
+- [생활코딩 유튜브](https://www.youtube.com/c/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A91/featured)
+- [노마드코더](https://nomadcoders.co/)
+- [노마드코더 유튜브](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
+- [드림코딩 by 엘리](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w)
+- [인프런](https://www.inflearn.com/)
+- [Udemy](https://www.udemy.com/ko/)
