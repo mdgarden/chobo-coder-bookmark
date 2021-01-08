@@ -1,3 +1,0 @@
-  - [멋진 깃허브 프로필 만들기(영문)](https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b)
-  - [오픈소스 소프트웨어 라이센스의 종류와 제약](http://guswnsxodlf.github.io/software-license)
-  - [[Github]저장소(Repository)에 라이선스를 달아보자!](https://corock.tistory.com/436)
