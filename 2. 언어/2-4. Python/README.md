@@ -11,3 +11,4 @@
 ### 강좌
 
 - [파이썬으로 라인메신저 알람 메세지 보내기(Line Notify 사용)](https://tibsender.tistory.com/76)
+- [파이썬으로 웹 스크래퍼 만들기](https://nomadcoders.co/python-for-beginners/lobby)
