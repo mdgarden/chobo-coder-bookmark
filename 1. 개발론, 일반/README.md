@@ -9,6 +9,7 @@
 
 #### 기타 기초 지식
 - [API, REST API, RESTful API 개념정리](https://velog.io/@taeha7b/api-restapi-restfulapi)
+- [API 기초 이해하기](https://brunch.co.kr/@hyoi0303/25)
 - [정보시스템 성능관리 - 용어정리](https://goodsharp.tistory.com/548)
 ***
 
