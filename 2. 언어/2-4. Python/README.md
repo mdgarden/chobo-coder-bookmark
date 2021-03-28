@@ -2,6 +2,7 @@
   
   - [왕초보를 위한 Python](https://wikidocs.net/book/2)
   - [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
+  - [점프 투 파이썬](https://wikidocs.net/book/1)
 
 ### 파이썬 프로젝트 / 방법론
 
