@@ -12,6 +12,7 @@
   - [[Github]저장소(Repository)에 라이선스를 달아보자!](https://corock.tistory.com/436)
 
 ### Git 사용법
+  - [모두를 위한 깃 & 깃허브](https://nomadcoders.co/git-for-beginners/lobby)
 
 ### Git 기타, 팁
   - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106)
