@@ -1,1 +1,2 @@
 - [Vue.js 공식 한글 튜토리얼](https://kr.vuejs.org/v2/guide/installation.html)
+- [Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
