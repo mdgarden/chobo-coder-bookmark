@@ -10,6 +10,7 @@
   - [Font Awesome](https://fontawesome.com/)
   - [Fontello](https://fontello.com/)
   - [Iconduck](https://iconduck.com/)
+  - [Iconmonstr](https://iconmonstr.com/)
 
 ## UI
   - [Material UI](https://material-ui.com/)
