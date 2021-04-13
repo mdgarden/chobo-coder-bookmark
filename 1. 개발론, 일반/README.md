@@ -31,3 +31,7 @@
 
 ## 디자인 패턴
 - [Refactoring.Guru](https://refactoring.guru/)
+
+
+## 코딩유튜버
+- [조코딩](https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg)
