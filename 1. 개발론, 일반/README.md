@@ -28,3 +28,10 @@
 - [정보올림피아드 & 알고리즘](http://www.jungol.co.kr/)
 - [Baekjoon Online Judge](https://www.acmicpc.net/)
 - [삼성SW 익스퍼트 아카데미](https://swexpertacademy.com/main/main.do)
+
+## 디자인 패턴
+- [Refactoring.Guru](https://refactoring.guru/)
+
+
+## 코딩유튜버
+- [조코딩](https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg)
